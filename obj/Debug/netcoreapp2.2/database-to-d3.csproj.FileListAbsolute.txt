@@ -1,0 +1,14 @@
+C:\Users\rebecca.szeto\Code\database-to-d3\bin\Debug\netcoreapp2.2\database-to-d3.deps.json
+C:\Users\rebecca.szeto\Code\database-to-d3\bin\Debug\netcoreapp2.2\database-to-d3.runtimeconfig.json
+C:\Users\rebecca.szeto\Code\database-to-d3\bin\Debug\netcoreapp2.2\database-to-d3.runtimeconfig.dev.json
+C:\Users\rebecca.szeto\Code\database-to-d3\bin\Debug\netcoreapp2.2\database-to-d3.dll
+C:\Users\rebecca.szeto\Code\database-to-d3\bin\Debug\netcoreapp2.2\database-to-d3.pdb
+C:\Users\rebecca.szeto\Code\database-to-d3\obj\Debug\netcoreapp2.2\database-to-d3.csprojAssemblyReference.cache
+C:\Users\rebecca.szeto\Code\database-to-d3\obj\Debug\netcoreapp2.2\database-to-d3.csproj.CoreCompileInputs.cache
+C:\Users\rebecca.szeto\Code\database-to-d3\obj\Debug\netcoreapp2.2\database-to-d3.RazorAssemblyInfo.cache
+C:\Users\rebecca.szeto\Code\database-to-d3\obj\Debug\netcoreapp2.2\database-to-d3.RazorAssemblyInfo.cs
+C:\Users\rebecca.szeto\Code\database-to-d3\obj\Debug\netcoreapp2.2\database-to-d3.AssemblyInfoInputs.cache
+C:\Users\rebecca.szeto\Code\database-to-d3\obj\Debug\netcoreapp2.2\database-to-d3.AssemblyInfo.cs
+C:\Users\rebecca.szeto\Code\database-to-d3\obj\Debug\netcoreapp2.2\database-to-d3.RazorTargetAssemblyInfo.cache
+C:\Users\rebecca.szeto\Code\database-to-d3\obj\Debug\netcoreapp2.2\database-to-d3.dll
+C:\Users\rebecca.szeto\Code\database-to-d3\obj\Debug\netcoreapp2.2\database-to-d3.pdb
